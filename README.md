@@ -43,6 +43,6 @@ Please ⭐ and 🍴 the repository.
   <li>LLM models for translation</li>
 </ol>
 
-<h4>Collbrators</h4>
+<h4>Collaborators</h4>
 Kausthub Kannan  <br />
 Aditya Awati
