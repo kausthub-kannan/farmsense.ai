@@ -30,7 +30,7 @@ Please ⭐ and 🍴 the repository.
 <h3>Deployment</h3>
 <p>Due to a lack of open source options, the deployment is tested in <b>Play with Docker</b></p>
 
-<h4>Improvements in upcoming verions</h4>
+<h4>Improvements in upcoming versions</h4>
 <ol>
   <li>Connecting the models for better Farmer UX</li>
   <li>IoT Embeeding System</li>
