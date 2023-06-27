@@ -40,6 +40,6 @@ Please ⭐ and 🍴 the repository.
   <li>LLM models for translation</li>
 </ol>
 
-<h4>Collbrator</h4>
-Kausthub Kannan
+<h4>Collbrators</h4>
+Kausthub Kannan  
 Aditya Awati
