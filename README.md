@@ -10,7 +10,8 @@
 
 Please ⭐ and 🍴 the repository.  
 
-<img src="assets/home-screen.jpeg"/>
+
+[<img src="assets/home-screen.jpeg"/>]('assests/demo.mp4')
 
 <h3>Features Introduced</h3>
 <ol>
