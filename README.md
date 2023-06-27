@@ -41,5 +41,5 @@ Please ⭐ and 🍴 the repository.
 </ol>
 
 <h4>Collbrators</h4>
-Kausthub Kannan  
+Kausthub Kannan  <br />
 Aditya Awati
