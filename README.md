@@ -1,6 +1,6 @@
 # farmsense.ai
 <div>
-  <img src="https://img.shields.io/badge/Build-version_2-green" width=110/>
+  <img src="https://img.shields.io/badge/Build-version_2-blue" width=110/>
   <img src="https://img.shields.io/badge/Computer%20Vision-red" width=110/>
 </div>
 
