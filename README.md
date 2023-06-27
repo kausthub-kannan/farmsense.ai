@@ -39,3 +39,7 @@ Please ⭐ and 🍴 the repository.
   <li>Improvised UI</li>
   <li>LLM models for translation</li>
 </ol>
+
+<h4>Collbrator</h4>
+Kausthub Kannan
+Aditya Awati
