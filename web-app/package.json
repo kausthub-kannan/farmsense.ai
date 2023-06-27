@@ -1,0 +1,40 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chatscope/chat-ui-kit-react": "^1.10.1",
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
+    "@supabase/supabase-js": "^2.21.0",
+    "@tensorflow/tfjs": "^4.4.0",
+    "antd": "^5.4.4",
+    "axios": "^1.4.0",
+    "chart.js": "^4.3.0",
+    "firebase": "^9.20.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-charts": "^4.0.0",
+    "react-icons": "^4.8.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-minimal-pie-chart": "^8.4.0",
+    "react-router-dom": "^6.10.0",
+    "react-uuid": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.14",
+    "dotenv": "^16.0.3",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.0"
+  }
+}

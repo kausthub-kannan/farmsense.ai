@@ -1,0 +1,36 @@
+.textcolor{
+    background-color:var(--bg);
+    color: var(--textcolor);
+}
+.table-auto {
+    table-layout: auto;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  th,
+  td {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 8px;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  
+  th {
+    background-color: #f7fafc;
+    color: #4a5568;
+    font-weight: 600;
+  }
+
+  @media (max-width: 640px) {
+    th,
+    td {
+      font-size: 14px;
+    }
+  }
+  
+  
