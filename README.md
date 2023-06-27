@@ -1,4 +1,4 @@
-# farmsense.ai
+<img src="assets/logo.png" width=55px align="left"/> <h1>farmsense.ai</h1>
 <div>
   <img src="https://img.shields.io/badge/Build-version_2-blue" width=110/>
   <img src="https://img.shields.io/badge/Computer%20Vision-red" width=110/>
@@ -9,6 +9,8 @@
 **farmsense.ai** is an Ai assistant for exponentially growing Hybrid farming. To enhance farmers' yield, this application assists them by detecting diseases of plants and poultries and providing crop and egg incubation analysis. CNN, YOLO, and XGBoost are used for the models.  
 
 Please ⭐ and 🍴 the repository.  
+
+<img src="assets/home-screen.jpeg"/>
 
 <h3>Features Introduced</h3>
 <ol>
@@ -31,6 +33,7 @@ Please ⭐ and 🍴 the repository.
 <p>Due to a lack of open source options, the deployment is tested in <b>Play with Docker</b></p>
 
 <h4>Improvements in upcoming versions</h4>
+<img src="assets/architecture.png" align="center" width=550/>
 <ol>
   <li>Connecting the models for better Farmer UX</li>
   <li>IoT Embeeding System</li>
