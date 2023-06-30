@@ -45,6 +45,6 @@ Please ⭐ and 🍴 the repository.
 </ol>
 
 <h4>Collaborators</h4>
-Kausthub Kannan (Model development) <br />
-Aditya Awati (MLOps) <br />
-Rahul Rudra (Frontend development) <br />
+<a href="https://github.com/kausthub-kannan">Kausthub Kannan</a> (Model development)<br />
+<a href="https://github.com/p1utoze">Aditya Awati</a> (MLOps)<br />
+<a href="https://github.com/RahulRudra81">Rahul Rudra</a> (Frontend development)<br />
